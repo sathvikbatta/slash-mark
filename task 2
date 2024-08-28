@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Portfolio</title>
+<style>
+   body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background: #333;
+  color: #fff;
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.project, .experience {
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+</style>
+</head>
+<body>
+  <header>
+    <h1><center>My Portfolio</center></h1>    
+  </header>
+
+  <section id="home">
+    <h1>My Self</h1>
+    <p>Hello! I'm <b>Sai</b>, and I am from Nellore,Andhra Pradesh. I am currently in my final year, pursuing a B.Tech in Artificial Intelligence and DataScience in N.B.K.R.I.S.T,Nellore.
+      I have maintained a CGPA of 8.0 throughout my studies.i know about Full Stack Developet using Python Programming Language.
+      </p>
+  </section>
+<section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      I have done Projects as follows<br>
+      1)Bank Management System by using HTML,CSS,jscript.<br>
+      2)ATM System
+      <p>All of these projects are done in my college.my projects are done with my team support along with faculty</p>
+    </div>
+    <!-- Add more projects similarly -->
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <div class="experience">
+      <p>I have no experience in job but i have received an internship opportunity from Slashmark<<br>
+      i have two months internship experience in Full Stack Development </p>
+    
+    </div>
+    <!-- Add more experiences similarly -->
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>You can reach me via:</p>
+    <ul>
+      <li>Email:<a href="https://www.gmail.com" target='blank'>Gmail Profile</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com" target="_blank">LinkedIn Profile</a></li>
+      <li>Twitter: <a href="https://twitter.com" target="_blank">Twitter Profile</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+  </footer>
+
+  <script src="D:\HTML\jscript.js"></script>
+</body>
+</html>
